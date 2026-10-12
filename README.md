@@ -1,1 +1,1 @@
-# SQL1_DBA26
+This repo is for practising linux and bash
