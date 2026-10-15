@@ -1,1 +1,1 @@
-This repo is for practising linux and bash
+This repo is for practising linux and SQL
