@@ -1,0 +1,11 @@
+SET PAGESIZE 1000
+SET SQLFORMAT csv
+-- turns off SQLcl prints after statement
+SET FEEDBACK OFF
+
+
+SELECT *
+FROM salaries_sf
+FETCH FIRST .2 PERCENT ROWS ONLY;
+
+EXIT
