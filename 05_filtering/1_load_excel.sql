@@ -1,0 +1,4 @@
+SET LOADFORMAT XLSX
+LOAD TABLE amazon 'Amazon 2_Raw.xlsx' NEW
+
+COMMIT;
